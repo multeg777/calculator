@@ -1,0 +1,10 @@
+{
+    "name": "multeg777/calculator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Multeg777\\Calculator\\": "src/"
+        }
+    },
+    "require": {}
+}
