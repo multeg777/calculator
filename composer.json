@@ -1,10 +1,12 @@
 {
-    "name": "multeg777/calculator",
+    "name": "multeg777/calculator-package",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Multeg777\\Calculator\\": "src/"
+            "Multeg777\\CalculatorPackage\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }

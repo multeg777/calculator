@@ -9,7 +9,7 @@
 ## Установка
 
 ```bash
-$ composer require multeg777/calculator
+$ composer require multeg777/calculator-package
 ```
 
 ## Использование
