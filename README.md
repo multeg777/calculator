@@ -20,3 +20,10 @@ $ composer require multeg777/calculator-package
 $calculator = new Calculator();
 echo $calculator->add(5, -3); // 2
 ```
+
+### Умножение
+```php
+<?php
+$calculator = new Calculator();
+echo $calculator->multi(5, 6); // 30
+```
